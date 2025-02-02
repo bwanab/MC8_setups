@@ -43,10 +43,10 @@ page 1:
 |a,e|b,f|c,g|d,h|
 |---|---|---|---|
 |Boost|Distortion|Chorus|Delay|
-||Treble Boost|Flange|Rotating Speaker|
+|-|Treble Boost|Flange|Rotating Speaker|
 
 page 2:
 |a,e|b,f|c,g|d,h|
 |---|---|---|---|
-|Set up|Set Down|||
+|Set up|Set Down|-|-|
 |Tuner|Patch Up|Patch Down|Tap Tempo|
