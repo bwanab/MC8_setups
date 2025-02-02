@@ -32,8 +32,8 @@ Page 1:
 Page 2:
 |a,e|b,f|c,g|d,h|
 |---|---|---|---|
-|||||
-|patch up|patch down|||
+|-|-|-|-|
+|patch up|patch down|-|-|
 
 * Morningstar_MC8_Bank_Backup_Mainstage FX_20250202_112517.json
 
