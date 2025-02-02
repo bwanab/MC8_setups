@@ -1,9 +1,10 @@
-All Banks backups:
+## All Banks backups:
 * Morningstar_MC8_All_Banks_Backup_20241209_165434.json
 * Morningstar_MC8_All_Banks_Backup_20241211_161044.json
 * Morningstar_MC8_All_Banks_Backup_20250202_112454.json
 
-Kemper Profiler setup:
+## Kemper Profiler setup:
+
 * Morningstar_MC8_Bank_Backup_Kemper Performance Selec_20250202_134520.json
 
 Page 1:
@@ -18,6 +19,7 @@ Page 2:
 |X|Mod|DLY|tuner|
 |B|C|D|Tap tempo|
 
+## Logic Pro Live Loops setup: 
 
 * Morningstar_MC8_Bank_Backup_Live Loops Control_20250202_112529.json
 
@@ -34,6 +36,8 @@ Page 2:
 |---|---|---|---|
 |-|-|-|-|
 |patch up|patch down|-|-|
+
+## Mainstage setup for Neural Amp Modeler
 
 * Morningstar_MC8_Bank_Backup_Mainstage FX_20250202_112517.json
 
