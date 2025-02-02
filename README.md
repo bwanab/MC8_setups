@@ -7,6 +7,8 @@ Kemper Profiler setup:
 * Morningstar_MC8_Bank_Backup_Kemper Performance Selec_20250202_134520.json
 
 Page 1:
+|a,e|b,f|c,g|d,h|
+|---|---|---|---|
 |Scroll up|4|5|tuner|
 |Scroll down|1|2|3|
 
