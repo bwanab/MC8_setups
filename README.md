@@ -13,6 +13,8 @@ Page 1:
 |Scroll down|1|2|3|
 
 Page 2:
+|a,e|b,f|c,g|d,h|
+|---|---|---|---|
 |X|Mod|DLY|tuner|
 |B|C|D|Tap tempo|
 
@@ -22,10 +24,14 @@ Page 2:
 Note that these are all dependent on setting them up in Logic Pro and Mainstage equivalently.
 
 Page 1:
+|a,e|b,f|c,g|d,h|
+|---|---|---|---|
 |prev scene|prev track|next track|next scene|
 |rec cell|trigger|queue|stop|
 
 Page 2:
+|a,e|b,f|c,g|d,h|
+|---|---|---|---|
 |||||
 |patch up|patch down|||
 
@@ -34,9 +40,13 @@ Page 2:
 Note that these are all dependent on setting them up in Mainstage equivalently.
 
 page 1:
+|a,e|b,f|c,g|d,h|
+|---|---|---|---|
 |Boost|Distortion|Chorus|Delay|
 ||Treble Boost|Flange|Rotating Speaker|
 
 page 2:
+|a,e|b,f|c,g|d,h|
+|---|---|---|---|
 |Set up|Set Down|||
 |Tuner|Patch Up|Patch Down|Tap Tempo|
